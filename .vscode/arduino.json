@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/tty.usbmodem101",
-    "sketch": "blinkLED/blinkLED.ino"
+    "sketch": "watch_socket/watch_socket.ino"
 }
