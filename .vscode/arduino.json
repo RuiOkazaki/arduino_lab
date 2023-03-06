@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/tty.usbmodem101",
-    "sketch": "watch_socket/watch_socket.ino"
+    "sketch": "chattering_counter/chattering_counter.ino"
 }
