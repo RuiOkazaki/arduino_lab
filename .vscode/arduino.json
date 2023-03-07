@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/tty.usbmodem101",
-    "sketch": "volume_socket/volume_socket.ino"
+    "sketch": "adjustment_fan/adjustment_fan.ino"
 }
